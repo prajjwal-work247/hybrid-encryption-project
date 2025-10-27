@@ -1,0 +1,29 @@
+# Python virtual environment
+venv/
+
+# Bytecode / caches
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Editor folders
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs, test artifacts, and outputs
+tests/*.log
+tests/*.csv
+
+# Build / distribution
+dist/
+build/
+*.egg-info/
+
+# Sensitive files (if any)
+*.pem
+*.key
