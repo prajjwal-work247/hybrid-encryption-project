@@ -1,7 +1,7 @@
-<<<<<<< HEAD
+
 # hybrid-encryption-project
 Hybrid Secure File Transfer using AES and XChaCha20
-=======
+
 # Hybrid Encryption Project
 This project implements a hybrid encryption scheme using AES (for file stream encryption) and XChaCha20 (for wrapping the AES key).
 
@@ -20,11 +20,9 @@ This project implements a hybrid encryption scheme using AES (for file stream en
 ## Setup
 Install dependencies:
 ```bash
-pip install pycryptodome pynacl```
-
-## To Do
+pip install pycryptodome pynacl```## To Do
 - Implement AES encryption/decryption
 - Implement XChaCha20 key wrapping
 - Integrate and test
 - Write report and performance results
->>>>>>> cc6b7f7 (Initial project skeleton: synopsis + report skeleton + .gitignore)
+
